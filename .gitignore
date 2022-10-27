@@ -1,0 +1,8 @@
+CMakeCache.txt
+*.log
+cpplogging
+*.tcl
+*.cmake
+Testing/
+build/
+CMakeFiles/
